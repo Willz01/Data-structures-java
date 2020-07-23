@@ -10,3 +10,4 @@ These data structures include :
 * List
 **************
 These data structures would be explained in details as much as I can.
+The Person class created would be used to demonstrate how the various DS stored objects.
