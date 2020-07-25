@@ -4,8 +4,8 @@ These data structures include :
  - [x] Arraylist
  - [x] LinkedList
  - [x] Stack
+ - [x] Array
 * - [ ] Queue
-* - [ ] Array
 * - [ ] HaspMap
 * - [ ] List
 **************
