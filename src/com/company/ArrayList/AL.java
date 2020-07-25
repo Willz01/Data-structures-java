@@ -53,7 +53,7 @@ public class AL {
         System.out.println("Is person1 in this AL : " + personArrayList.contains(person1));
 
         // Bonus
-        /**
+        /*
          * isEmpty() - returns a boolean on if the AL is empty or not ((true) for is empty and (false) for not empty)
          * clear - clears the Al
          * clone
