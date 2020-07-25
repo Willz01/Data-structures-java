@@ -3,8 +3,8 @@ Example the concepts of common and most used data srtructures in programming wit
 These data structures include : 
  - [x] Arraylist
  - [x] LinkedList
+ - [x] Stack
 * - [ ] Queue
-* - [ ] Stack
 * - [ ] Array
 * - [ ] HaspMap
 * - [ ] List
