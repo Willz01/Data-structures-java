@@ -16,3 +16,6 @@ The Person class created would be used to demonstrate how the various DS stored 
 - [ ] signifies not done.
 ### Arraylist 
  - Arraylists are used to stores objects just like any other data structure listed above. It does has some features which are not possesed by the rest.Arraylist are dynamic in size on wise the arrays which are static, cannot be expanded once created.
+ 
+ ## Linkedlist
+ - Linkedlist are almost similar to arraylists in java, there share almost the same methods and handle data very similar to one another,the only significant difference between them in the way data are stored in both with linkedlist being more complex. [Linkedlist](wikipedia]https://en.wikipedia.org/wiki/Linked_list)
