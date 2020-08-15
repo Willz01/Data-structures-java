@@ -5,7 +5,7 @@ These data structures include :
  - [x] LinkedList
  - [x] Stack
  - [x] Array
-* - [ ] Queue
+ - [x] Queue
 * - [ ] HaspMap
 * - [ ] List
 **************
